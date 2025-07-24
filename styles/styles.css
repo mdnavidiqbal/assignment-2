@@ -107,11 +107,6 @@ nav ul li a {
     padding-left: 150px;
     padding-top: 112px;
 }
-
-/* .content{
-   padding-top: 56px;
-   align-items: center;
-} */
 .banner-heading {
     font-weight: bold;
     font-size: 65px;
@@ -147,7 +142,6 @@ nav ul li a {
 .card-container {
     width: 203px;
     height: 370px;
-    /* border: 1px solid blue; */
     text-align: center;
     align-items: center;
 }
@@ -194,7 +188,6 @@ nav ul li a {
 /* Flower-Lover-Section-Style */
 .flower-container {
     display: flex;
-    /* justify-content: space-between; */
     padding-top: 100px;
     padding-left: 150px;
     padding-right: 150px;
